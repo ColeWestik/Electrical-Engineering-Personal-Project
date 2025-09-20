@@ -1,2 +1,6 @@
 # Arduino-Project
-This project is my introduction into the world of Electrical Engineering. I will be exploring the basics of electricty, circuit theory, coding, and how to create and manage
+In this project, I have created a... 
+
+Using the findings, I created an excel sheet to find the corellation
+
+I have created a google slide to combine everything into a polished final presentation.
