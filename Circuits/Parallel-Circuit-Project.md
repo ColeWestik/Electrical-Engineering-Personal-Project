@@ -9,7 +9,7 @@ This project was used to explore forward voltage and the functionality of parall
 
 ## The Circuit
 
-![Parallel-LED](https://github.com/user-attachments/assets/33f78419-4a9a-4ea8-a898-b47da3724169)
+![Parallel-Circuit](https://github.com/user-attachments/assets/1f92e7cd-8548-4d49-bce9-434f5014572d)
 
 
 ## Forward Voltage
