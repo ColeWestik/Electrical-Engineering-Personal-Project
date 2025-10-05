@@ -11,7 +11,7 @@ Using a multimeter, determined the forward voltage of different colored LEDS. Th
 * Lower-frequency light (red, yellow) corresponds to lower-energy photons. A smaller forward voltage is needed to emit these lower-energy photons.
 
 ![Forward Velocity](https://github.com/user-attachments/assets/e63f6e1e-9ad4-4aa3-9886-b66ef63d3912)
-### Multimeter reading a 1.962V Drop in Yellow LED.
+### Multimeter reading a 1.961V Drop in Yellow LED.
 
 
 First, I used a multimeter to find the Forward Voltage of different colored LEDS.
