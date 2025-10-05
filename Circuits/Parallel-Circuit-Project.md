@@ -9,7 +9,8 @@ This project was used to explore forward voltage and the functionality of parall
 
 ## The Circuit
 
-![Parallel-LED](https://github.com/user-attachments/assets/b10980d9-6426-4b2c-b946-7c75ab4057a1)
+![Parallel-LED](https://github.com/user-attachments/assets/33f78419-4a9a-4ea8-a898-b47da3724169)
+
 
 ## Forward Voltage
 #### Higher-frequency light (blue, green) corresponds to higher-energy photons. A larger forward voltage is needed to emit these higher-energy photons.
