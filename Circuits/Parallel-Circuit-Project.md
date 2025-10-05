@@ -1,5 +1,5 @@
 # Parallel LED Circuit and Forward Voltage
-Using a multimeter, determined the forward voltage of different colored LEDS. Then, using that information, determined the amperage of each branch in a parallel circuit. Simple parallel LED circuit designed to demostrate that voltage is maintained amongst branches, while current is divided. 
+This project was used to explore Forward Voltage and the functionality of Parallel Circuits.
 
 ## Setup
 * 4 small LEDS rated for 0.02A
@@ -14,10 +14,6 @@ Using a multimeter, determined the forward voltage of different colored LEDS. Th
 ### Lower-frequency light (red, yellow) corresponds to lower-energy photons. A smaller forward voltage is needed to emit these lower-energy photons.
 ![YellowLED](https://github.com/user-attachments/assets/1448bc86-52fc-4c75-b27c-1d8c9f4d04dc)
 
-
-
-
-### Multimeter reading a 1.961V Drop in Yellow LED.
 
 
 First, I used a multimeter to find the Forward Voltage of different colored LEDS.
