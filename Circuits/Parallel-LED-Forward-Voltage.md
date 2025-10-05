@@ -7,11 +7,13 @@ Using a multimeter, determined the forward voltage of different colored LEDS. Th
 * 4 1000 Ohm resistors
 
 ## Forward Voltage
-* Higher-frequency light (blue, green) corresponds to higher-energy photons. A larger forward voltage is needed to emit these higher-energy photons.
-![GreenLED](https://github.com/user-attachments/assets/64186b51-edd8-430a-bfd4-efefaceab409)
+### Higher-frequency light (blue, green) corresponds to higher-energy photons. A larger forward voltage is needed to emit these higher-energy photons.
+![GreenLED](https://github.com/user-attachments/assets/da359e6f-9024-4d2a-9afc-1f5160e758df)
+
   
-* Lower-frequency light (red, yellow) corresponds to lower-energy photons. A smaller forward voltage is needed to emit these lower-energy photons.
-![YellowLED](https://github.com/user-attachments/assets/3f61ff96-3d92-4484-ab44-b41f33b60998)
+### Lower-frequency light (red, yellow) corresponds to lower-energy photons. A smaller forward voltage is needed to emit these lower-energy photons.
+![YellowLED](https://github.com/user-attachments/assets/1448bc86-52fc-4c75-b27c-1d8c9f4d04dc)
+
 
 
 
