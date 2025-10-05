@@ -5,4 +5,4 @@ This is a simple Parallel Circuit using 4 LEDS, 4 Resistors, and a 9 Volt batter
 
 As my very first circuit, my focus was on applying theoretical concepts to real world circuitry. I did not focus much on creating a "pretty" circuit, but rather a working circuit.
 
-Small LEDS have an Amp rating of 0.02A. To drop into the amperage of each branch, I used 1000 ohm resistors on each branch, given parallel circuits maintain a uniform voltage among all branches, and dropped the amperage to 0.009A.
+Small LEDS have an Amp rating of 0.02A. Given parallel circuits maintain a uniform voltage among all branches, I used 1000 ohm resistors on each branch to drop the amperage to 0.009A: within the safe limit for the small LED.
