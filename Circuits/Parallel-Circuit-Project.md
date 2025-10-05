@@ -8,11 +8,11 @@ This project was used to explore forward voltage and the functionality of parall
 * Multimeter
 
 ## Forward Voltage
-### Higher-frequency light (blue, green) corresponds to higher-energy photons. A larger forward voltage is needed to emit these higher-energy photons.
+#### Higher-frequency light (blue, green) corresponds to higher-energy photons. A larger forward voltage is needed to emit these higher-energy photons.
 ![GreenLED](https://github.com/user-attachments/assets/da359e6f-9024-4d2a-9afc-1f5160e758df)
 
   
-### Lower-frequency light (red, yellow) corresponds to lower-energy photons. A smaller forward voltage is needed to emit these lower-energy photons.
+#### Lower-frequency light (red, yellow) corresponds to lower-energy photons. A smaller forward voltage is needed to emit these lower-energy photons.
 ![YellowLED](https://github.com/user-attachments/assets/1448bc86-52fc-4c75-b27c-1d8c9f4d04dc)
 
 
