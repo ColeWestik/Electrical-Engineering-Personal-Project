@@ -2,9 +2,9 @@
 Simple parallel LED circuit designed to demostrate that voltage is maintained amongst branches, while current is divided. 
 
 ## Setup
-4 small LEDS rated for 0.02A
-9 Volt Battery
-4 1000 Ohm resistors
+* 4 small LEDS rated for 0.02A
+* 9 Volt Battery
+* 4 1000 Ohm resistors
 
 ![Parallel-LED](https://github.com/user-attachments/assets/b10980d9-6426-4b2c-b946-7c75ab4057a1)
 
