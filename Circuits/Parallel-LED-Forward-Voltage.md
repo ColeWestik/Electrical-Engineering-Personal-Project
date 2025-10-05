@@ -10,7 +10,8 @@ Using a multimeter, determined the forward voltage of different colored LEDS. Th
 * Higher-frequency light (blue, green) corresponds to higher-energy photons. A larger forward voltage is needed to emit these higher-energy photons.
 * Lower-frequency light (red, yellow) corresponds to lower-energy photons. A smaller forward voltage is needed to emit these lower-energy photons.
 
-![Forward Velocity](https://github.com/user-attachments/assets/e63f6e1e-9ad4-4aa3-9886-b66ef63d3912)
+![Forward Velocity 1](https://github.com/user-attachments/assets/41dce8a0-682b-4d56-b091-f816999092c4)
+
 ### Multimeter reading a 1.961V Drop in Yellow LED.
 
 
