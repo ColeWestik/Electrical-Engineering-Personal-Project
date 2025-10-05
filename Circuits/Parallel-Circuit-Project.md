@@ -1,10 +1,11 @@
 # Parallel LED Circuit and Forward Voltage
-This project was used to explore Forward Voltage and the functionality of Parallel Circuits.
+This project was used to explore forward voltage and the functionality of parallel circuits.
 
 ## Setup
 * 4 small LEDS rated for 0.02A
 * 9 Volt Battery
 * 4 1000 Ohm resistors
+* Multimeter
 
 ## Forward Voltage
 ### Higher-frequency light (blue, green) corresponds to higher-energy photons. A larger forward voltage is needed to emit these higher-energy photons.
