@@ -8,6 +8,7 @@ Using a multimeter, determined the forward voltage of different colored LEDS. Th
 
 ## Forward Voltage
 
+![Forward Velocity](https://github.com/user-attachments/assets/e63f6e1e-9ad4-4aa3-9886-b66ef63d3912)
 
 
 First, I used a multimeter to find the Forward Voltage of different colored LEDS.
