@@ -18,10 +18,10 @@ This experiment explores **forward voltage**, **frequency**, and the functionali
 
 --- 
 
-#### Higher-frequency light (blue, green) requires a higher forward voltage
+#### Higher-frequency light (blue, green) requires a larger forward voltage
 ![GreenLED](https://github.com/user-attachments/assets/da359e6f-9024-4d2a-9afc-1f5160e758df)
 
-#### Lower-frequency light (red, yellow) requires a lower forward voltage
+#### Lower-frequency light (red, yellow) requires a smaller forward voltage
 ![YellowLED](https://github.com/user-attachments/assets/1448bc86-52fc-4c75-b27c-1d8c9f4d04dc)
 
 ## Measured Forward Voltages by Color
