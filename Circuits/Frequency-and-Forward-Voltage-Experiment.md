@@ -32,13 +32,13 @@ This experiment explores **forward voltage**, **frequency**, and the functionali
 | Red ≈ 1.8V | Yellow ≈ 2V | Green ≈ 2.5V | Blue ≈ 2.8V |
 
 ## Frequency and Forward Voltage Correlation
-* With the use of average frequency based on color, a correlation between the frequency and forward voltage can be displayed.
+With the use of average frequency based on color, a correlation between the **frequency** and **forward voltage** can be displayed.
 
 <img width="600" height="371" alt="Forward Voltage by Frequency" src="https://github.com/user-attachments/assets/38c8121e-2cbf-44c4-afe7-3bf5a251eb04" />  
 
 | Red ≈ 460 THz | Yellow ≈ 510 THz | Green ≈ 600 THz | Blue ≈ 650 THz |
 
-* Forward Voltage is directly proportional to the frequency of light.
+* **Forward Voltage** is **directly proportional** to the **frequency of light**.
   
 * Higher-frequency light corresponds to higher-energy photons. 
 A larger forward voltage is needed to emit these higher-energy photons.
