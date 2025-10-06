@@ -1,5 +1,5 @@
 # Parallel LED Circuit and Forward Voltage
-This project explores **forward voltage** and the functionality of **parallel circuits**.
+This experiment explores **forward voltage** and the functionality of **parallel circuits**.
 
 ## Setup
 * 4 small LEDS rated at 20 mA
@@ -31,7 +31,7 @@ A smaller forward voltage is needed to emit these lower-energy photons.
 * Blue ≈ 2.8 V
 
 ## Amperage
-**Parallel Circuits** send voltage equal to the power source to each branch of the circuit. Given that the power source is a 9V battery, each branch recieves 9V minus the forward voltage of the LED.
+In **Parallel Circuits**, each branch recieves voltage equal to the power source. Since the power source is a 9V battery, each branch recieves 9V minus the forward voltage of the LED.
 
 Using the voltage of each branch and resistance of each branch (1000 Ω), the current can be determined using **Ohms Law (I = V/R).**
 
@@ -41,8 +41,10 @@ Using the voltage of each branch and resistance of each branch (1000 Ω), the cu
 * Green = 6.5 mA
 * Blue = 6.2 mA
 
-The Amp rating of the each LED is 20 mA, so all the measured currents are within a safe range.
+Each LED is rated at 20 mA, so all the measured currents are within a safe range.
 
 
-## Summary
+## Conclusion
+This experiment demonstrated that as the LED's color frequency increased, the forward voltage increased. It also demostrated that in parallel wiring, each branch recieves the same source voltage, with differing current based on voltage drops and resistance.
+
 
