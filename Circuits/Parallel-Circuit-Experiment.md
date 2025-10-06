@@ -32,7 +32,8 @@ A smaller forward voltage is needed to emit these lower-energy photons.
 * Green ≈ 2.5V
 * Blue ≈ 2.8V
   
-<img width="500" height="362" alt="BarGraph 1" src="https://github.com/user-attachments/assets/2fad10d8-37ca-477a-8800-631443ff7bfe" />
+<img width="600" height="371" alt="Forward Voltage by Color" src="https://github.com/user-attachments/assets/db9844f3-385f-4cb1-849e-557a12675df2" />
+
 
 ## Wavelength and Forward Voltage Correlation
 
