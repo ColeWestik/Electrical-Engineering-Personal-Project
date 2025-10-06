@@ -13,8 +13,8 @@ This experiment explores **forward voltage** and the functionality of **parallel
 
 ## Forward Voltage
 **Forward voltage** is the minimum voltage required to begin the flow of current.
+It can be determined by measuring the voltage drop over an LED using a multimeter.
 
-**Forward voltage** can be determined by measuring the voltage drop over an LED using a multimeter.
 --- 
 
 #### Higher-frequency light (blue, green) corresponds to higher-energy photons. 
