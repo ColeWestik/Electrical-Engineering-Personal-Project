@@ -1,5 +1,5 @@
 # Parallel LED Circuit and Forward Voltage
-This experiment explores **forward voltage** and the functionality of **parallel circuits**.
+This experiment explores **forward voltage**, **Frequency**, and the functionality of **parallel circuits**.
 
 ## Setup
 * 4 small LEDS rated at 20 mA
