@@ -38,7 +38,7 @@ With the use of average frequency based on color, a correlation between the **fr
 
 | Red ≈ 460 THz | Yellow ≈ 510 THz | Green ≈ 600 THz | Blue ≈ 650 THz |
 
-* **Forward Voltage** is **directly proportional** to the **frequency of light**.
+* **Forward Voltage is directly proportional to the frequency of light**.
   
 * Higher-frequency light corresponds to higher-energy photons. 
 A larger forward voltage is needed to emit these higher-energy photons.
