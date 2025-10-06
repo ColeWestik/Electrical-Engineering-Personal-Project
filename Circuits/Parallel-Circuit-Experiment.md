@@ -12,7 +12,7 @@ This experiment explores **forward voltage** and the functionality of **parallel
 <img width="736" height="336" alt="image" src="https://github.com/user-attachments/assets/ce25fedc-557d-4670-989f-73ed31cced24" />
 
 ## Forward Voltage
-**Forward voltage** is the minimum voltage needed to allow the flow of current.
+**Forward voltage** is the minimum voltage required to begin the flow of current.
 
 --- 
 
@@ -43,6 +43,41 @@ A smaller forward voltage is needed to emit these lower-energy photons.
 * 
 <img width="600" height="371" alt="Forward Voltage by Frequency" src="https://github.com/user-attachments/assets/38c8121e-2cbf-44c4-afe7-3bf5a251eb04" />
 
+
+
+## Forward Voltage
+**Forward voltage** is the minimum voltage required to begin the flow of current.
+
+--- 
+
+#### Higher-frequency light (blue, green) requires a higher forward voltage
+![GreenLED](https://github.com/user-attachments/assets/da359e6f-9024-4d2a-9afc-1f5160e758df)
+
+#### Lower-frequency light (red, yellow) requires a lower forward voltage
+![YellowLED](https://github.com/user-attachments/assets/1448bc86-52fc-4c75-b27c-1d8c9f4d04dc)
+
+## Measured Forward Voltages by Color
+<img width="600" height="371" alt="Forward Voltage by Color" src="https://github.com/user-attachments/assets/437ac982-f67c-4861-b200-5c3477f35673" />
+
+* Red ≈ 1.8V
+* Yellow ≈ 2V
+* Green ≈ 2.5V
+* Blue ≈ 2.8V
+
+## Frequency and Forward Voltage Correlation
+* With use of average frequencies based on color
+* Red ≈ 460 THz
+* Yellow ≈ 510 THz
+* Green ≈ 600 THz
+* Blue ≈ 650 THz
+* 
+<img width="600" height="371" alt="Forward Voltage by Frequency" src="https://github.com/user-attachments/assets/38c8121e-2cbf-44c4-afe7-3bf5a251eb04" />
+
+corresponds to higher-energy photons. 
+A larger forward voltage is needed to emit these higher-energy photons.
+
+corresponds to lower-energy photons. 
+A smaller forward voltage is needed to emit these lower-energy photons.
 
 ## Amperage
 In **Parallel Circuits**, each branch recieves voltage equal to the power source. Since the power source is a 9V battery, each branch recieves 9V minus the forward voltage of the LED.
