@@ -1,8 +1,8 @@
 # Parallel LED Circuit and Forward Voltage
-This project explores forward voltage and the functionality of parallel circuits.
+This project explores **forward voltage** and the functionality of **parallel circuits**.
 
 ## Setup
-* 4 small LEDS rated at 0.02A
+* 4 small LEDS rated at 20 mA
 * 9 V Battery
 * 4 x 1000 Ω resistors
 * Multimeter
@@ -12,14 +12,16 @@ This project explores forward voltage and the functionality of parallel circuits
 <img width="736" height="336" alt="image" src="https://github.com/user-attachments/assets/ce25fedc-557d-4670-989f-73ed31cced24" />
 
 ## Forward Voltage
-Forward voltage is the minimum voltage needed to begin the flow of current.
+**Forward voltage** is the minimum voltage needed to begin the flow of current.
 
 --- 
 
-#### Higher-frequency light (blue, green) corresponds to higher-energy photons. A larger forward voltage is needed to emit these higher-energy photons.
+#### Higher-frequency light (blue, green) corresponds to higher-energy photons. 
+A larger forward voltage is needed to emit these higher-energy photons.
 ![GreenLED](https://github.com/user-attachments/assets/da359e6f-9024-4d2a-9afc-1f5160e758df)
 
-#### Lower-frequency light (red, yellow) corresponds to lower-energy photons. A smaller forward voltage is needed to emit these lower-energy photons.
+#### Lower-frequency light (red, yellow) corresponds to lower-energy photons. 
+A smaller forward voltage is needed to emit these lower-energy photons.
 ![YellowLED](https://github.com/user-attachments/assets/1448bc86-52fc-4c75-b27c-1d8c9f4d04dc)
 
 #### Measured forward voltages
@@ -29,9 +31,9 @@ Forward voltage is the minimum voltage needed to begin the flow of current.
 * Blue ≈ 2.8 V
 
 ## Amperage
-Parallel Circuits send voltage equal to the power source to each branch of the circuit. Given that the power source is a 9V battery, each branch recieves 9V minus the forward voltage of the LED.
+**Parallel Circuits** send voltage equal to the power source to each branch of the circuit. Given that the power source is a 9V battery, each branch recieves 9V minus the forward voltage of the LED.
 
-Using the voltage of each branch, combined with the resistance of each branch (1000Ω), the current can be determined using Ohms Law (I = V/R)
+Using the voltage of each branch and resistance of each branch (1000 Ω), the current can be determined using **Ohms Law (I = V/R).**
 
 #### Measured Current of each branch
 * Red = 7.2 mA
@@ -39,7 +41,7 @@ Using the voltage of each branch, combined with the resistance of each branch (1
 * Green = 6.5 mA
 * Blue = 6.2 mA
 
-The Amp rating of the each LED is 20 mA, so all the measured currents are within safe range.
+The Amp rating of the each LED is 20 mA, so all the measured currents are within a safe range.
 
 
 ## Summary
