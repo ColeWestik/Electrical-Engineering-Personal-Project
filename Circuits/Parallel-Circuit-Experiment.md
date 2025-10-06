@@ -34,6 +34,7 @@ A smaller forward voltage is needed to emit these lower-energy photons.
   
 <img width="500" height="362" alt="BarGraph 1" src="https://github.com/user-attachments/assets/2fad10d8-37ca-477a-8800-631443ff7bfe" />
 
+## Wavelength and Forward Voltage Correlation
 
 
 ## Amperage
@@ -48,6 +49,7 @@ Using the voltage of each branch and resistance of each branch (1000 Ω), the cu
 * Blue = 6.2 mA
 
 Each LED is rated at 20 mA, so all the measured currents are within a safe range.
+
 
 
 ## Conclusion
