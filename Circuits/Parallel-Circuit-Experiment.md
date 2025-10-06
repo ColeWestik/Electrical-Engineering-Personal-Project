@@ -26,7 +26,7 @@ A smaller forward voltage is needed to emit these lower-energy photons.
 
 ---
 
-## Measured forward voltages
+## Measured Forward Voltages by Color
 <img width="600" height="371" alt="Forward Voltage by Color" src="https://github.com/user-attachments/assets/437ac982-f67c-4861-b200-5c3477f35673" />
 
 * Red ≈ 1.8V
@@ -35,6 +35,12 @@ A smaller forward voltage is needed to emit these lower-energy photons.
 * Blue ≈ 2.8V
 
 ## Frequency and Forward Voltage Correlation
+* With use of average frequencies based on color
+* Red ≈ 460 THz
+* Yellow ≈ 510 THz
+* Green ≈ 600 THz
+* Blue ≈ 650 THz
+* 
 <img width="600" height="371" alt="Forward Voltage by Frequency" src="https://github.com/user-attachments/assets/38c8121e-2cbf-44c4-afe7-3bf5a251eb04" />
 
 
