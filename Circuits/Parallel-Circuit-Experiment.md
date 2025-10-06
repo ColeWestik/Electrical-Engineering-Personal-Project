@@ -3,7 +3,7 @@ This experiment explores **forward voltage** and the functionality of **parallel
 
 ## Setup
 * 4 small LEDS rated at 20 mA
-* 9 V Battery
+* 9V Battery
 * 4 x 1000 Ω resistors
 * Multimeter
 
@@ -27,10 +27,11 @@ A smaller forward voltage is needed to emit these lower-energy photons.
 ---
 
 ## Measured forward voltages
-* Red ≈ 1.8 V
-* Yellow ≈ 2 V
-* Green ≈ 2.5 V
-* Blue ≈ 2.8 V
+* Red ≈ 1.8V
+* Yellow ≈ 2V
+* Green ≈ 2.5V
+* Blue ≈ 2.8V
+  
 <img width="500" height="362" alt="BarGraph 1" src="https://github.com/user-attachments/assets/2fad10d8-37ca-477a-8800-631443ff7bfe" />
 
 
