@@ -50,6 +50,8 @@ A smaller forward voltage is needed to emit these lower-energy photons.
 ## Forward Voltage
 **Forward voltage** is the minimum voltage required to begin the flow of current.
 
+* It can be determined by measuring the voltage drop over an LED.
+
 --- 
 
 #### Higher-frequency light (blue, green) requires a higher forward voltage
