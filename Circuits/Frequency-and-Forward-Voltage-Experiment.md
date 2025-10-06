@@ -25,22 +25,24 @@ This experiment explores **forward voltage**, **frequency**, and the functionali
 ![YellowLED](https://github.com/user-attachments/assets/1448bc86-52fc-4c75-b27c-1d8c9f4d04dc)
 
 ## Measured Forward Voltages by Color
-<img width="600" height="371" alt="Forward Voltage by Color" src="https://github.com/user-attachments/assets/437ac982-f67c-4861-b200-5c3477f35673" />
-
 * Red ≈ 1.8V
 * Yellow ≈ 2V
 * Green ≈ 2.5V
 * Blue ≈ 2.8V
+  
+<img width="600" height="371" alt="Forward Voltage by Color" src="https://github.com/user-attachments/assets/437ac982-f67c-4861-b200-5c3477f35673" />
 
 ## Frequency and Forward Voltage Correlation
-* With use of average frequencies based on color, a correlation between the frequency of the color and the forward voltage can be made.
+* With the use of average frequencies based on color, a correlation between the frequency of the color and the forward voltage of the LED can be made.
 * Red ≈ 460 THz
 * Yellow ≈ 510 THz
 * Green ≈ 600 THz
 * Blue ≈ 650 THz
-* 
+  
 <img width="600" height="371" alt="Forward Voltage by Frequency" src="https://github.com/user-attachments/assets/38c8121e-2cbf-44c4-afe7-3bf5a251eb04" />
 
+* Forward Voltage is directly proportional to the frequency of light.
+* 
 * Higher-frequency light corresponds to higher-energy photons. 
 A larger forward voltage is needed to emit these higher-energy photons.
 
