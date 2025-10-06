@@ -29,7 +29,7 @@ Forward voltage is the minimum voltage needed to begin the flow of current.
 * Blue ≈ 2.8V
 
 ## Calculations
-Given that parallel circuits have a uniform voltage amongst branches, the amperage of each branch depended on the forward Voltage of each LED, along with the resistor.
+Parallel Circuits send voltage equal to the power source to each Branch. Given that the power source is a 9V battery, each branch recieves 9V - the forward voltage drop.
 
 
 
