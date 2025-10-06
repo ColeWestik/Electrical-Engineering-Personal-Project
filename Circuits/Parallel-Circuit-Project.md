@@ -3,8 +3,8 @@ This project explores forward voltage and the functionality of parallel circuits
 
 ## Setup
 * 4 small LEDS rated at 0.02A
-* 9V Battery
-* 4 x 1000Ω resistors
+* 9 V Battery
+* 4 x 1000 Ω resistors
 * Multimeter
 
 ## The Circuit
@@ -23,22 +23,23 @@ Forward voltage is the minimum voltage needed to begin the flow of current.
 ![YellowLED](https://github.com/user-attachments/assets/1448bc86-52fc-4c75-b27c-1d8c9f4d04dc)
 
 #### Measured forward voltages
-* Red ≈ 1.8V
-* Yellow ≈ 2V
-* Green ≈ 2.5V
-* Blue ≈ 2.8V
+* Red ≈ 1.8 V
+* Yellow ≈ 2 V
+* Green ≈ 2.5 V
+* Blue ≈ 2.8 V
 
 ## Amperage
 Parallel Circuits send voltage equal to the power source to each branch of the circuit. Given that the power source is a 9V battery, each branch recieves 9V minus the forward voltage of the LED.
 
-Using the voltage of each branch, combined with the resistance of each branch (1000Ω), the amperage can be determined using Ohms Law (I = V/R)
+Using the voltage of each branch, combined with the resistance of each branch (1000Ω), the current can be determined using Ohms Law (I = V/R)
 
-#### Measured Voltage of each branch
+#### Measured Current of each branch
 * Red = 7.2 mA
 * Yellow = 7 mA
 * Green = 6.5 mA
 * Blue = 6.2 mA
 
+The Amp rating of the each LED is 20 mA, so all the measured currents are within safe range.
 
 
 ## Summary
