@@ -32,7 +32,8 @@ A smaller forward voltage is needed to emit these lower-energy photons.
 * Green ≈ 2.5 V
 * Blue ≈ 2.8 V
 
-<img width="800" height="800" alt="desmos-graph" src="https://github.com/user-attachments/assets/4aaae43c-413b-49c9-bdca-ec1f1052c9e7" />
+<img width="400" height="400" alt="Current and Voltage" src="https://github.com/user-attachments/assets/7774322a-fca5-46e0-90cd-f339d396801e" />
+
 
 ## Amperage
 In **Parallel Circuits**, each branch recieves voltage equal to the power source. Since the power source is a 9V battery, each branch recieves 9V minus the forward voltage of the LED.
