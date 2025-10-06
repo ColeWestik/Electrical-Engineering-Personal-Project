@@ -22,14 +22,22 @@ Forward voltage is the minimum voltage needed to begin the flow of current.
 #### Lower-frequency light (red, yellow) corresponds to lower-energy photons. A smaller forward voltage is needed to emit these lower-energy photons.
 ![YellowLED](https://github.com/user-attachments/assets/1448bc86-52fc-4c75-b27c-1d8c9f4d04dc)
 
-#### I measured the following forward voltages
-* Red ≈ 1.9V
+#### Measured forward voltages
+* Red ≈ 1.8V
 * Yellow ≈ 2V
 * Green ≈ 2.5V
 * Blue ≈ 2.8V
 
-## Calculations
-Parallel Circuits send voltage equal to the power source to each Branch. Given that the power source is a 9V battery, each branch recieves 9V - the forward voltage drop.
+## Amperage
+Parallel Circuits send voltage equal to the power source to each branch of the circuit. Given that the power source is a 9V battery, each branch recieves 9V minus the forward voltage of the LED.
+
+Using the voltage of each branch, combined with the resistance of each branch (1000Ω), the amperage can be determined using Ohms Law (I = V/R)
+
+#### Measured Voltage of each branch
+* Red = 7.2 mA
+* Yellow = 7 mA
+* Green = 6.5 mA
+* Blue = 6.2 mA
 
 
 
