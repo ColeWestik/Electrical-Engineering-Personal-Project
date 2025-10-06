@@ -51,6 +51,6 @@ Each LED is rated at 20 mA, so all the measured currents are within a safe range
 
 
 ## Conclusion
-This experiment demonstrated that as the LED's color frequency increased, the forward voltage increased. It also demostrated that in parallel wiring, each branch recieves the same source voltage, with differing current based on voltage drops and resistance.
+This experiment demonstrated that as the LED's color frequency increased, the forward voltage increased. It also demostrated that in parallel wiring, each branch recieves the same source voltage with differing current based on voltage drops and resistance.
 
 
