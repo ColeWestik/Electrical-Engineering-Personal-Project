@@ -27,7 +27,11 @@ A smaller forward voltage is needed to emit these lower-energy photons.
 ---
 
 ## Measured forward voltages
-
+* Red = 1.8 V
+* Yellow = 2 V
+* Green = 2.5 V
+* Blue = 2.8 V
+* 
 <img width="500" height="362" alt="BarGraph 1" src="https://github.com/user-attachments/assets/2fad10d8-37ca-477a-8800-631443ff7bfe" />
 
 
