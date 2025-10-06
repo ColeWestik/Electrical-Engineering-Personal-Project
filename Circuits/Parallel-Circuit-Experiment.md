@@ -24,7 +24,9 @@ A larger forward voltage is needed to emit these higher-energy photons.
 A smaller forward voltage is needed to emit these lower-energy photons.
 ![YellowLED](https://github.com/user-attachments/assets/1448bc86-52fc-4c75-b27c-1d8c9f4d04dc)
 
-#### Measured forward voltages
+---
+
+## Measured forward voltages
 * Red ≈ 1.8 V
 * Yellow ≈ 2 V
 * Green ≈ 2.5 V
