@@ -16,6 +16,10 @@ This project explores forward voltage and the functionality of parallel circuits
 
 
 ## Forward Voltage
+#### Forward voltage is the minimum voltage needed to begin the flow of current.
+
+
+
 #### Higher-frequency light (blue, green) corresponds to higher-energy photons. A larger forward voltage is needed to emit these higher-energy photons.
 ![GreenLED](https://github.com/user-attachments/assets/da359e6f-9024-4d2a-9afc-1f5160e758df)
 
