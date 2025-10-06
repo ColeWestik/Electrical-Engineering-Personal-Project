@@ -8,15 +8,11 @@ This project explores forward voltage and the functionality of parallel circuits
 * Multimeter
 
 ## The Circuit
-
 ![Parallel-Circuit](https://github.com/user-attachments/assets/1f92e7cd-8548-4d49-bce9-434f5014572d)
-
 <img width="736" height="336" alt="image" src="https://github.com/user-attachments/assets/ce25fedc-557d-4670-989f-73ed31cced24" />
 
-
-
 ## Forward Voltage
-#### Forward voltage is the minimum voltage needed to begin the flow of current.
+Forward voltage is the minimum voltage needed to begin the flow of current.
 
 --- 
 
