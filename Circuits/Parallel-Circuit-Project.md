@@ -1,10 +1,10 @@
 # Parallel LED Circuit and Forward Voltage
-This project was used to explore forward voltage and the functionality of parallel circuits.
+This project explores forward voltage and the functionality of parallel circuits.
 
 ## Setup
 * 4 small LEDS rated for 0.02A
 * 9 Volt Battery
-* 4 1000 Ohm resistors
+* 4 x 1000 Ohm resistors
 * Multimeter
 
 ## The Circuit
