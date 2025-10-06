@@ -34,12 +34,10 @@ This experiment explores **forward voltage**, **frequency**, and the functionali
 
 ## Frequency and Forward Voltage Correlation
 * With the use of average frequency based on color, a correlation between the frequency of the color and the forward voltage of the LED can be made.
-* Red ≈ 460 THz
-* Yellow ≈ 510 THz
-* Green ≈ 600 THz
-* Blue ≈ 650 THz
+
   
 <img width="600" height="371" alt="Forward Voltage by Frequency" src="https://github.com/user-attachments/assets/38c8121e-2cbf-44c4-afe7-3bf5a251eb04" />
+| Red ≈ 460 THz | Yellow ≈ 510 THz | Green ≈ 600 THz | Blue ≈ 650 THz |
 
 * Forward Voltage is directly proportional to the frequency of light.
 * 
