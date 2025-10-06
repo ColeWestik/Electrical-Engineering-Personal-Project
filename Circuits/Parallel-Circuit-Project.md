@@ -23,8 +23,16 @@ This project explores forward voltage and the functionality of parallel circuits
 #### Lower-frequency light (red, yellow) corresponds to lower-energy photons. A smaller forward voltage is needed to emit these lower-energy photons.
 ![YellowLED](https://github.com/user-attachments/assets/1448bc86-52fc-4c75-b27c-1d8c9f4d04dc)
 
+#### I found the following forward voltages
+* Red ≈ 1.9V
+* Yellow ≈ 2V
+* Green ≈ 2.5V
+* Blue ≈ 2.8V
+
 ## Calculations
 Given that parallel circuits have a uniform voltage amongst branches, the amperage of each branch depended on the forward Voltage of each LED, along with the resistor.
+
+
 
 ## Summary
 
