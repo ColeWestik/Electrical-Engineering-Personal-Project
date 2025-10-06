@@ -12,7 +12,7 @@ This experiment explores **forward voltage** and the functionality of **parallel
 <img width="736" height="336" alt="image" src="https://github.com/user-attachments/assets/ce25fedc-557d-4670-989f-73ed31cced24" />
 
 ## Forward Voltage
-**Forward voltage** is the minimum voltage needed to begin the flow of current.
+**Forward voltage** is the minimum voltage needed to allow the flow of current.
 
 --- 
 
