@@ -1,4 +1,4 @@
-# Parallel LED Circuit and Forward Voltage
+# Parallel LED Circuit, Forward Voltage, Frequency
 This experiment explores **forward voltage**, **frequency**, and the functionality of **parallel circuits**.
 
 ## Setup
