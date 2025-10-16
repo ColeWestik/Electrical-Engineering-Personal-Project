@@ -1,6 +1,5 @@
-# Arduino-Project
-In this project, I have created a... 
+# Electrical Engineering Project
 
-Using the findings, I created an excel sheet to find the corellation
+This is the hub for all of my Electrical Engineering personal Study. 
 
-I have created a google slide to combine everything into a polished final presentation.
+I have a folder for my notes that I take and another folder for the experiments that I complete
