@@ -47,9 +47,9 @@ A larger forward voltage is needed to emit these higher-energy photons.
 A smaller forward voltage is needed to emit these lower-energy photons.
 
 ## Amperage
-In **Parallel Circuits**, each branch recieves voltage equal to the power source. Since the power source is a 9V battery, each branch recieves 9V minus the forward voltage of the LED.
+In **Parallel Circuits**, each branch recieves voltage equal to the power source. Since the power source is a 9V battery, each branch recieves 9V.
 
-Using the voltage of each branch and resistance of each branch (1000 Ω), the current can be determined using **Ohms Law (I = V/R).**
+Using the voltage of each branch minus the forward voltage of the LEDs, we can find the voltage through each resistor (1000 Ω), the current can then be determined using **Ohms Law (I = V/R).**
 
 #### Measured Current of each branch
 * Red = 7.2 mA
