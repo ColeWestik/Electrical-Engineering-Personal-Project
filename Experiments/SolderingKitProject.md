@@ -11,6 +11,8 @@ The kit first starts with soldering practice of the back of the board. After wor
 ![SolderingKitFront](https://github.com/user-attachments/assets/e14df405-caa2-44fb-ac99-d4b1339a8fd1)
 
 ## Result
-The result was a circuit oscillating at 1 hertz. The Circuit was supposed to produce the sound of a European Siren
+The result was a circuit oscillating at 1 hertz. The Circuit was supposed to produce the sound of a European Siren.
+
+
 ![SolderingKitFlashing](https://github.com/user-attachments/assets/962c1402-d0a0-4ebd-b8a5-822fa4885f63)
 
